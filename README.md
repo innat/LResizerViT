@@ -1,6 +1,6 @@
 # Motivation 
 
-In this notebook, it's shown how we can train a higher resolution image for vision transformer model. Usually transformer based models with high resolutoin may not fit into GPU. In such cases, we can adopt a **Trainable Resizer** mechanism as a backbone of the transformer models and perform as a joint  learning of the image resizer and recognition models.
+It's shown how we can train a higher resolution image for vision transformer model. Usually transformer based models with high resolutoin may not fit into GPU. In such cases, we can adopt a **Trainable Resizer** mechanism as a backbone of the transformer models and perform as a joint  learning of the image resizer and recognition models.
 
 [**Learning to Resize Images for Computer Vision Tasks** - Google Research](https://arxiv.org/pdf/2103.09950v1.pdf). For a given image resolutoin and a model, this research work answer how to best resize that image in a target resolutoin. Off-the-shelf image resizers for example: bilinear, bicubic methods are commonly used in most of the machine learning softwares. But this may limit the on-task performance of the trained model. In the above work, it's shown that typical linear resizer can be replaced with the **Learned Resizer**. Below is the overall proposed learnable resizer blocks.
 
