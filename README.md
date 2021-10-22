@@ -19,3 +19,8 @@ In the paper, they showed that the proposed resizer mechanism improve the classi
 - [ROBIN SMITS](https://www.kaggle.com/rsmits/effnet-b2-feature-models-catboost#SET-TPU-/-GPU) - For general training pipelines. Great work. 
 - [Learnable-Image-Resizing](https://github.com/sayakpaul/Learnable-Image-Resizing) For resizer building blocks. 
 - [TensorFlow-HUB](https://github.com/sayakpaul/ViT-jax2tf) For ViT 
+
+
+# Run 
+
+[Notebook](https://www.kaggle.com/ipythonx/learning-to-resize-images-for-vision-transformer) 
