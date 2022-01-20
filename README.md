@@ -6,9 +6,8 @@ An unofficial `TensorFlow 2` implementation of [**L**earnable **Resizer**](https
 
 
 # Code Example:
-- `dataloader/data.py` path contains a flower data set, 5 classificaiton task (demonstration purpose only). 
-- Real Problem: [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score) : 
-[Solution Notebook](https://www.kaggle.com/ipythonx/learning-to-resize-images-for-vision-transformer) 
+- `dataloader/data.py` path contains a flower data set, 5 classificaiton task. (code is not clean yet). 
+- [Kaggle Notebook](https://www.kaggle.com/ipythonx/learning-to-resize-images-for-vision-transformer) (**clean code**).
 
 
 Below is shown how the resized images look like after being trained through a learned resizer + vision transformer.
