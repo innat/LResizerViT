@@ -1,6 +1,6 @@
 # LResizerViT
 
-An unofficial `TensorFlow 2` implementation of [Trainable **Resizer**](https://arxiv.org/pdf/2103.09950v1.pdf) and [**Vi**sion **T**ransformer](https://arxiv.org/pdf/2010.11929.pdf) joint training model (**LResizerViT**). Below is the overall proposed learnable resizer blocks.
+An unofficial `TensorFlow 2` implementation of [**L**earnable **Resizer**](https://arxiv.org/pdf/2103.09950v1.pdf) and [**Vi**sion **T**ransformer](https://arxiv.org/pdf/2010.11929.pdf) joint training model (**LResizerViT**). Below is the overall proposed learnable resizer blocks.
 
 ![image resizer](https://user-images.githubusercontent.com/17668390/138250657-29995830-b903-447f-8729-09b72b90ab3c.png)
 
